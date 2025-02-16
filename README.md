@@ -24,11 +24,11 @@ Your task is to create a web page that closely resembles the provided design.
 
 <div align="center">
   <h3>
-    <a href="{https://your-demo-link.your-domain}">
+    <a href="{/https://product-listing-dev.netlify.app/}">
       Demo
     </a>
     <span> | </span>
-    <a href="{https://your-url-to-the-solution}">
+    <a href="{https://product-listing-dev.netlify.app/}">
       Solution
     </a>
     <span> | </span>
@@ -67,5 +67,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Author
 
 Paul Davidson
-# TestimonalPage
 # TestimonalPage
