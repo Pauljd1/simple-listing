@@ -24,11 +24,11 @@ Your task is to create a web page that closely resembles the provided design.
 
 <div align="center">
   <h3>
-    <a href="{/https://product-listing-dev.netlify.app/}">
+    <a href="https://product-listing-dev.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="{https://product-listing-dev.netlify.app/}">
+    <a href="https://product-listing-dev.netlify.app/">
       Solution
     </a>
     <span> | </span>
@@ -37,6 +37,7 @@ Your task is to create a web page that closely resembles the provided design.
     </a>
   </h3>
 </div>
+
 
 <!-- TABLE OF CONTENTS -->
 
